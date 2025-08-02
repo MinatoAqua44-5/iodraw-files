@@ -101,11 +101,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-58" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t-Xl1BhKQlbTc0ShPUBE-54">
-          <mxGeometry x="0.1658" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-56" value="二维舵机云台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
           <mxGeometry x="60" y="120" width="120" height="60" as="geometry" />
         </mxCell>
