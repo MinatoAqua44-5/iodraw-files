@@ -87,12 +87,6 @@
             <mxPoint x="7" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-Xl1BhKQlbTc0ShPUBE-44" target="t-Xl1BhKQlbTc0ShPUBE-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-44" value="二维舵机云台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
-          <mxGeometry x="60" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-46" value="M" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-10" y="350" width="40" height="40" as="geometry" />
         </mxCell>
@@ -102,10 +96,10 @@
             <mxPoint x="-70" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="t-Xl1BhKQlbTc0ShPUBE-44">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-330" y="320" as="sourcePoint" />
-            <mxPoint x="-430" y="530" as="targetPoint" />
+            <mxPoint x="60" y="480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-430" y="320" />
               <mxPoint x="-430" y="480" />
