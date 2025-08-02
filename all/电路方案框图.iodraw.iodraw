@@ -130,10 +130,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-Xl1BhKQlbTc0ShPUBE-70" target="t-Xl1BhKQlbTc0ShPUBE-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-70" value="激光笔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
