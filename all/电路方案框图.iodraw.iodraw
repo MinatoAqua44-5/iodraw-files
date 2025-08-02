@@ -99,6 +99,7 @@
               <mxPoint x="-520" y="410" />
               <mxPoint x="-430" y="510" />
               <mxPoint x="-180" y="510" />
+              <mxPoint x="-430" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -106,7 +107,7 @@
           <mxGeometry x="60" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-57" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;3V3电源&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="-380" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
