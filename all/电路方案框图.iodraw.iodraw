@@ -86,7 +86,7 @@
           <mxGeometry x="-390" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-34" value="K230D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-35" value="5V电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
           <mxGeometry x="-390" y="230" width="120" height="60" as="geometry" />
