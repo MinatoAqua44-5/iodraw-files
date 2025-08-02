@@ -47,7 +47,7 @@
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-2" value="12V电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
           <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-10" value="K230D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-10" value="K230D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
           <mxGeometry x="80" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t-Xl1BhKQlbTc0ShPUBE-15" target="t-Xl1BhKQlbTc0ShPUBE-20">
@@ -67,22 +67,22 @@
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-21" value="MSPM03507" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
           <mxGeometry x="530" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-23" value="5V电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-23" value="5V电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
           <mxGeometry x="530" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-24" value="12V电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-24" value="12V电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
           <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-25" value="TB6612" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-25" value="TB6612" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
           <mxGeometry x="310" y="360.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-26" value="MSPM03507" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-26" value="MSPM03507" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-27" value="5V电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-27" value="5V电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
           <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
