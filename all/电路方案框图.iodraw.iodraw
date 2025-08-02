@@ -33,7 +33,10 @@
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="200" as="sourcePoint" />
-            <mxPoint x="400" y="110" as="targetPoint" />
+            <mxPoint x="340" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="120" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
