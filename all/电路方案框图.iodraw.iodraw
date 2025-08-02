@@ -122,7 +122,7 @@
             <mxPoint x="7" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-44" value="stm32f407zgt6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-44" value="二维舵机云台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
           <mxGeometry x="290" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
