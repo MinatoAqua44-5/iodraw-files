@@ -106,6 +106,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-56" value="二维舵机云台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
