@@ -9,7 +9,7 @@
             <mxPoint x="140" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-1" value="5V电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-1" value="5V电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
           <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-Xl1BhKQlbTc0ShPUBE-2" target="t-Xl1BhKQlbTc0ShPUBE-1">
@@ -44,10 +44,10 @@
             <mxPoint x="370" y="390.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-2" value="12V电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-2" value="12V电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
           <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-10" value="K230D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-10" value="K230D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
           <mxGeometry x="80" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t-Xl1BhKQlbTc0ShPUBE-15" target="t-Xl1BhKQlbTc0ShPUBE-20">
@@ -55,16 +55,16 @@
             <mxPoint x="590" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-15" value="5V电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-15" value="5V电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
           <mxGeometry x="530" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-19" value="TB6612" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-19" value="TB6612" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
           <mxGeometry x="310" y="360.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
           <mxGeometry x="530" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-21" value="MSPM03507" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-21" value="MSPM03507" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
