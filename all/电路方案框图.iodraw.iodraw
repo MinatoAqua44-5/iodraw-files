@@ -87,17 +87,6 @@
             <mxPoint x="7" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="369.66" as="sourcePoint" />
-            <mxPoint x="290" y="369.66" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-42" value="PID控制器" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t-Xl1BhKQlbTc0ShPUBE-41">
-          <mxGeometry x="-0.2232" y="1" relative="1" as="geometry">
-            <mxPoint x="7" y="21" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-44" value="二维舵机云台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
           <mxGeometry x="60" y="490" width="120" height="60" as="geometry" />
         </mxCell>
@@ -119,6 +108,7 @@
               <mxPoint x="-430" y="320" />
               <mxPoint x="-430" y="430" />
               <mxPoint x="-140" y="430" />
+              <mxPoint x="-140" y="480" />
               <mxPoint x="120" y="430" />
             </Array>
           </mxGeometry>
