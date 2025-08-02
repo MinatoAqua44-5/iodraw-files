@@ -4,8 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-Xl1BhKQlbTc0ShPUBE-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="380.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-1" value="5V电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-Xl1BhKQlbTc0ShPUBE-2" target="t-Xl1BhKQlbTc0ShPUBE-1">
           <mxGeometry relative="1" as="geometry" />
@@ -17,16 +22,16 @@
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-Xl1BhKQlbTc0ShPUBE-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="200" as="targetPoint" />
+            <mxPoint x="200" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="200" />
-              <mxPoint x="350" y="200" />
+              <mxPoint x="370" y="200" />
+              <mxPoint x="320" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-Xl1BhKQlbTc0ShPUBE-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="280" as="targetPoint" />
+            <mxPoint x="530" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-14" value="DCDC稳压电路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t-Xl1BhKQlbTc0ShPUBE-13">
@@ -35,13 +40,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-2" value="12V电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-10" value="K230D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-15" value="5V电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
