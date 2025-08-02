@@ -28,12 +28,6 @@
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-2" value="12V电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
           <mxGeometry x="-160" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="t-Xl1BhKQlbTc0ShPUBE-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="330" as="targetPoint" />
-            <mxPoint x="120" y="290" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-19" value="TB6612" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA640;" vertex="1" parent="1">
           <mxGeometry x="-160" y="340.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
