@@ -20,16 +20,6 @@
             <mxPoint x="-6" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-Xl1BhKQlbTc0ShPUBE-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-14" value="DCDC稳压电路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t-Xl1BhKQlbTc0ShPUBE-13">
-          <mxGeometry x="0.2804" y="-2" relative="1" as="geometry">
-            <mxPoint x="-14" y="-12" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-Xl1BhKQlbTc0ShPUBE-2" target="t-Xl1BhKQlbTc0ShPUBE-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-100" y="370.0000000000001" as="targetPoint" />
@@ -69,13 +59,16 @@
           <mxGeometry x="-390" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-34" value="K230D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
-          <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-35" value="5V电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
           <mxGeometry x="-390" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-36" value="MSPM03507" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
           <mxGeometry x="-390" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-Xl1BhKQlbTc0ShPUBE-37" target="t-Xl1BhKQlbTc0ShPUBE-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-37" value="12V电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffeb85;" vertex="1" parent="1">
           <mxGeometry x="-160" y="230" width="120" height="60" as="geometry" />
@@ -115,15 +108,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="300" as="sourcePoint" />
             <mxPoint x="-70" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="180" as="sourcePoint" />
-            <mxPoint x="240" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="240" y="180" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="t-Xl1BhKQlbTc0ShPUBE-22">
