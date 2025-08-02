@@ -52,7 +52,7 @@
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t-Xl1BhKQlbTc0ShPUBE-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="589.9999999999998" y="380.0000000000001" as="targetPoint" />
+            <mxPoint x="590" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-15" value="5V电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -62,7 +62,7 @@
           <mxGeometry x="310" y="360.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t-Xl1BhKQlbTc0ShPUBE-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
