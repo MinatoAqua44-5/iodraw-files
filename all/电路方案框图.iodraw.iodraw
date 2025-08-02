@@ -106,6 +106,11 @@
             <mxPoint x="280" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="t-Xl1BhKQlbTc0ShPUBE-40" value="PID控制器" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t-Xl1BhKQlbTc0ShPUBE-39">
+          <mxGeometry x="-0.2232" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
